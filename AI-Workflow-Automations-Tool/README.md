@@ -5,3 +5,4 @@ React (Vite), FastAPI, MongoDB, Celery, GCP
 • Integrated background job processing with Celery for asynchronous task execution and system scalability.
 • Developed 50+ third-party integrations and 100+ reusable workflow templates.
 • Deployed production-ready services on Google Cloud Platform (GCP) with a privacy-first architecture.
+![Uploading image.png…]()
